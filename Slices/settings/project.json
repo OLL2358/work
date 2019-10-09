@@ -1,0 +1,46 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "design-resolution-height": 540,
+  "design-resolution-width": 960,
+  "excluded-modules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "Toggle",
+    "EditorBox",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "MotionStreak",
+    "Collider",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "StudioComponent",
+    "RenderTexture",
+    "Chipmunk",
+    "Intersection",
+    "Native NetWork"
+  ],
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "54fe60f1-c142-4068-bcd8-61f83526cf01",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false,
+  "cocos-analytics": {
+    "enable": false,
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2"
+  }
+}
