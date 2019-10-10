@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "232c87c0-7045-4206-8ddf-7f1439be6cf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pomegranate": {
+      "ver": "1.0.3",
+      "uuid": "414bf11d-2d49-4646-9541-4e5a7d3b8e51",
+      "rawTextureUuid": "232c87c0-7045-4206-8ddf-7f1439be6cf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 437,
+      "height": 176,
+      "rawWidth": 441,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
