@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "03f5b7dd-c335-41a4-b47b-5b8e7b1d7782",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pineapple": {
+      "ver": "1.0.3",
+      "uuid": "fa25adbe-f688-4ed9-ab83-ff5c4754b7aa",
+      "rawTextureUuid": "03f5b7dd-c335-41a4-b47b-5b8e7b1d7782",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 448,
+      "height": 177,
+      "rawWidth": 452,
+      "rawHeight": 181,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
