@@ -30,7 +30,7 @@
   "title": "Scene",
   "webOrientation": "auto",
   "wechatgame": {
-    "REMOTE_SERVER_ROOT": "https://freshfruit-1256769450.cos.ap-chengdu.myqcloud.com/1.2.5",
+    "REMOTE_SERVER_ROOT": "",
     "appid": "wx9696292781b8b3aa",
     "isSubdomain": false,
     "orientation": "portrait",
