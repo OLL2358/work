@@ -2,7 +2,9 @@
   "appKey": "",
   "appSecret": "",
   "encryptJs": true,
-  "excludeScenes": [],
+  "excludeScenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
   "fb-instant-games": {},
   "includeAnySDK": false,
   "includeSDKBox": false,
@@ -26,11 +28,11 @@
     "orientation": "portrait"
   },
   "renderMode": "0",
-  "startScene": "ffd7eeb3-2d18-47fa-bdea-2d50988142cd",
+  "startScene": "54fe60f1-c142-4068-bcd8-61f83526cf01",
   "title": "Scene",
   "webOrientation": "auto",
   "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
+    "REMOTE_SERVER_ROOT": "https://freshfruit-1256769450.cos.ap-chengdu.myqcloud.com/1.2.5",
     "appid": "wx9696292781b8b3aa",
     "isSubdomain": false,
     "orientation": "portrait",
