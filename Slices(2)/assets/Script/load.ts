@@ -20,7 +20,7 @@ export default class NewClass extends cc.Component {
                 name: 'subpackage', // name 可以填 name 或者 root
                 success: (res) => {
                     console.log("子包subpackage加载成功", res);
-                    cc.director.loadScene('NewScene');
+                    cc.director.loadScene('game');
                     // 分包加载成功后通过 success 回调
                 },
                 fail: (res) => {
