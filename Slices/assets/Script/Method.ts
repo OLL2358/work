@@ -649,7 +649,7 @@ export default class Method extends cc.Component {
 
 
 
-        Wx.Instance.initVideo("adunit-22bf932e018a4368");
+        Wx.Instance.initVideo(Config.Instance.VIDEOID);
         RewardSystem.Instance.init(this.node);
 
         // if (GameData.Instance.getIsSign() == 0) {
